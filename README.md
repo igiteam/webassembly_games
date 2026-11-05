@@ -20,8 +20,6 @@
 
 [https://videogameslibrary.macosxjs.com](https://videogameslibrary.macosxjs.com)
 
-[https://lego-spyrius.netlify.app/](https://lego-spyrius.netlify.app/)
-
 
 ## RTCW: Return To Castle Wolfeinstein
 [https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
