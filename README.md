@@ -12,6 +12,11 @@
 
 [https://renderwareenginegames.macosxjs.com/](https://renderwareenginegames.macosxjs.com/)
 
+[https://xbox360games.macosxjs.com](https://xbox360games.macosxjs.com)
+
+[https://ps3games.macosxjs.com](https://ps3games.macosxjs.com)
+
+
 ## RTCW: Return To Castle Wolfeinstein
 [https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
 
