@@ -1,25 +1,4 @@
-# webassembly_games
-
-[https://chromeenginegames.macosxjs.com/](https://chromeenginegames.macosxjs.com/)
-
-[https://gamebryoenginegames.macosxjs.com/](https://gamebryoenginegames.macosxjs.com/)
-
-[https://idtechenginegames.macosxjs.com/](https://idtechenginegames.macosxjs.com/)
-
-[https://lithtechenginegames.macosxjs.com/](https://lithtechenginegames.macosxjs.com/)
-
-[https://unrealenginegames.macosxjs.com/](https://unrealenginegames.macosxjs.com/)
-
-[https://renderwareenginegames.macosxjs.com/](https://renderwareenginegames.macosxjs.com/)
-
-[https://xbox360games.macosxjs.com](https://xbox360games.macosxjs.com)
-
-[https://ps3games.macosxjs.com](https://ps3games.macosxjs.com)
-
-[https://filmstrip.macosxjs.com](https://filmstrip.macosxjs.com)
-
-[https://videogameslibrary.macosxjs.com](https://videogameslibrary.macosxjs.com)
-
+# webassembly games collection
 
 ## RTCW: Return To Castle Wolfeinstein
 [https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
