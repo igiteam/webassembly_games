@@ -6,6 +6,9 @@
 ## Operation Flashpoint Cold War Crisis
 [https://motionmark.itch.io/poseidonwasm](https://motionmark.itch.io/poseidonwasm)
 
+## Project IGI - I'm Going In
+[https://playigi.com/play](https://playigi.com/play)
+
 ## Quake III Arena
 [https://lrusso.github.io/Quake3/Quake3.htm?demo&lrusso](https://lrusso.github.io/Quake3/Quake3.htm?demo&lrusso)
 
