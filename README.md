@@ -24,6 +24,12 @@
 ## GTA III
 [https://wasmarcade.com/gta3](https://wasmarcade.com/gta3)
 
+## Duke Nukem 3D
+[https://digitalcybersoft.github.io/eduke32-wasm/](https://digitalcybersoft.github.io/eduke32-wasm/)
+
+## No One Lives Forever (NOLF)
+[https://playnolf.com/#missions](https://playnolf.com/#missions)
+
 ##  Web Game Ports
 [https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2FCarter54git%2FUltimate-Catalog-Of-Web-Game-Ports%2Fblob%2Fmain%2FREADME.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2FCarter54git%2FUltimate-Catalog-Of-Web-Game-Ports%2Fblob%2Fmain%2FREADME.md)
 
