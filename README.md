@@ -36,6 +36,9 @@
 ## Duke Nukem 3D
 [https://digitalcybersoft.github.io/eduke32-wasm/](https://digitalcybersoft.github.io/eduke32-wasm/)
 
+## HALO: Combat Evolved
+[https://opencommunityedition.com/](https://opencommunityedition.com/)
+
 ## No One Lives Forever (NOLF)
 [https://playnolf.com/#missions](https://playnolf.com/#missions)
 
