@@ -21,6 +21,9 @@
 ## Arx Fatalis
 [https://rgc.zone/ports/arxweb/index.html](https://rgc.zone/ports/arxweb/index.html)
 
+## Doom 3
+[https://wasm.continuation-labs.com/d3demo/](https://wasm.continuation-labs.com/d3demo/)
+
 ## Jedi Knight Dark Forces II
 [https://maxthomas.dev/openjkdf2/](https://maxthomas.dev/openjkdf2/)
 
