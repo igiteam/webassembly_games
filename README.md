@@ -50,7 +50,7 @@
 
 
 
-## Video Game Collections With Youtube
+## Video Game Engines
 
 [https://chromeenginegames.macosxjs.com/](https://chromeenginegames.macosxjs.com/)
 
@@ -64,40 +64,53 @@
 
 [https://renderwareenginegames.macosxjs.com/](https://renderwareenginegames.macosxjs.com/)
 
----
+## Video Game Magazines
+
+[https://igiteam.github.io/pczonemagazines/](https://igiteam.github.io/pczonemagazines/)
+
+[https://igiteam.github.io/xboxmagazines/](https://igiteam.github.io/xboxmagazines/)
+
+## Video Game Covers
+
+[https://xboxgames.macosxjs.com](https://xboxgames.macosxjs.com)
 
 [https://wiigames.macosxjs.com](https://wiigames.macosxjs.com)
 
-[https://xbox360games.macosxjs.com](https://xbox360games.macosxjs.com)
-
 [https://ps3games.macosxjs.com](https://ps3games.macosxjs.com)
 
-[https://3dogames.macosxjs.com](https://3dogames.macosxjs.com)
+[https://xbox360games.macosxjs.com](https://xbox360games.macosxjs.com)
 
 [https://pspgames.macosxjs.com](https://pspgames.macosxjs.com)
 
-[https://segasaturngames.macosxjs.com](https://segasaturngames.macosxjs.com)
+[https://ps1games.macosxjs.com](https://ps1games.macosxjs.com)
+
+[https://pcgames.macosxjs.com](https://pcgames.macosxjs.com)
 
 [https://n64games.macosxjs.com](https://n64games.macosxjs.com)
-
-[https://ps2games.macosxjs.com](https://ps2games.macosxjs.com)
-
-[https://ps1games.macosxjs.com](https://ps1games.macosxjs.com)
 
 [https://dreamcastgames.macosxjs.com](https://dreamcastgames.macosxjs.com)
 
 [https://gbagames.macosxjs.com](https://gbagames.macosxjs.com)
 
-[https://xboxgames.macosxjs.com](https://xboxgames.macosxjs.com)
-
 [https://gamecubegames.macosxjs.com](https://gamecubegames.macosxjs.com)
+
+---
+
+[https://ps2games.macosxjs.com](https://ps2games.macosxjs.com)
+
+[https://3dogames.macosxjs.com](https://3dogames.macosxjs.com)
+
+[https://segasaturngames.macosxjs.com](https://segasaturngames.macosxjs.com)
 
 [https://snesgames.macosxjs.com](https://snesgames.macosxjs.com)
 
 [https://segagenesisgames.macosxjs.com](https://segagenesisgames.macosxjs.com)
 
----
+## Video Games
   
 [https://videogameslibrary.macosxjs.com](https://videogameslibrary.macosxjs.com)
 
+[https://ue3.macosxjs.com/](https://ue3.macosxjs.com/)
+
+---
 ---
