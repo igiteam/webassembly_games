@@ -33,6 +33,9 @@
 ## GTA III
 [https://wasmarcade.com/gta3](https://wasmarcade.com/gta3)
 
+## GTA IV
+[https://wasmarcade.com/gta3](https://wasmarcade.com/gtaiv)
+
 ## Duke Nukem 3D
 [https://digitalcybersoft.github.io/eduke32-wasm/](https://digitalcybersoft.github.io/eduke32-wasm/)
 
