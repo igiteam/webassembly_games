@@ -24,6 +24,9 @@
 ## Doom 3
 [https://wasm.continuation-labs.com/d3demo/](https://wasm.continuation-labs.com/d3demo/)
 
+## Deus Ex 2000
+[https://jarmitage99.itch.io/opende](https://jarmitage99.itch.io/opende)
+
 ## Jedi Knight Dark Forces II
 [https://maxthomas.dev/openjkdf2/](https://maxthomas.dev/openjkdf2/)
 
